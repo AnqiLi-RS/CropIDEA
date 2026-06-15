@@ -1,0 +1,1 @@
+This is the official repository of CropIDEA, a Crop Index-Driven Embedding Adaptation framework for label-free multi-class crop mapping. Full implementation and code details will be released after peer review.
